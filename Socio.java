@@ -2,7 +2,7 @@
  * @(#)Socio.java
  *
  *
- * @author 
+ * @author Alysson de Almeida Cordeiro
  * @version 1.00 2017/11/9
  */
 
@@ -66,6 +66,6 @@ public class Socio extends Matricula{
 		this.matriculas = matriculas;
 	}
 
-//Métodos
+//MÃ©todos
     
 }
